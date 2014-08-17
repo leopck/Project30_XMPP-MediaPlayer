@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CherryX</string>
+    <string name="hello_world">100%</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="movies">
+        <item>Scene 1</item>
+        <item>Scene 2</item>
+        <item>Scene 3</item>
+        <item>Scene 4</item>
+        <item>Scene 5</item>
+    </string-array>
+    
+     <string-array name="audio">
+        <item>Audio 1</item>
+        <item>Audio 2</item>
+        <item>Audio 3</item>
+        <item>Audio 4</item>
+        <item>Audio 5</item>
+    </string-array>
+
+</resources>
